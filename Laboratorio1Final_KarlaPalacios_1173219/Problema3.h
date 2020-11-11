@@ -271,6 +271,7 @@ namespace Laboratorio1FinalKarlaPalacios1173219 {
 		if (orden==1)
 		{
 			determinante = matriz[0][0];
+			//hola
 		}
 		else
 		{
